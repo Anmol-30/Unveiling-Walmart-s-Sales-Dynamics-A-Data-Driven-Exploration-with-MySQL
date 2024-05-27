@@ -1,4 +1,4 @@
-# Unveiling Walmart's Sales Dynamics ~ A Data Driven Exploration with MySQL
+# Walmart Sales Analysis ~ A Data Driven Exploration with MySQL
 
 # Introduction
 Embarking on a deep dive into Walmart's sales data, this project aims to unveil key insights driving branch performance, product dynamics, and customer trends. Leveraging methodologies like MySQL setup, data wrangling, feature engineering, and exploratory analysis, we tackle critical business questions, empowering strategic decision-making.
