@@ -44,3 +44,6 @@ Customer Analysis:
 # Dataset
 Historical sales data for 45 Walmart stores located in different regions 
 https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
+
+# Reference
+Youtube - Code with Prince
