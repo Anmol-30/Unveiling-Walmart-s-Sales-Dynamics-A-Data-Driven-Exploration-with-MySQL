@@ -15,7 +15,7 @@ The primary aim was to analyze Walmart's sales data to identify factors influenc
 # Business Questions to Answer
 * How many unique cities are in the data?
 * Which city hosts each branch?
-Product Analysis:
+# Product Analysis:
 * How many unique product lines exist?
 * What is the most common payment method?
 * What is the total monthly revenue?
@@ -25,12 +25,12 @@ Product Analysis:
 * Rate each product line as "Good" or "Bad" based on average sales.
 * Which branch sold more products than the average?
 * What is the average rating of each product line?
-Sales Analysis:
+# Sales Analysis:
 * How many sales occur at each time of day per weekday?
 * Which customer type generates the most revenue?
 * Which city has the highest VAT percentage?
 * Which customer type pays the most VAT?
-Customer Analysis:
+# Customer Analysis:
 * How many unique customer types exist?
 * How many unique payment methods are there?
 * What is the most common customer type?
@@ -43,6 +43,7 @@ Customer Analysis:
 
 # Dataset
 Historical sales data for 45 Walmart stores located in different regions 
+
 https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
 # Reference
